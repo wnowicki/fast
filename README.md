@@ -1,5 +1,11 @@
 # Fast Example
 
+## Run
+
+```shell
+uvicorn main:app --reload
+```
+
 ## Setup
 
 ### Dependencies
